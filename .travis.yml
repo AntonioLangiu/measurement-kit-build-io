@@ -1,4 +1,4 @@
-language: objective-c
+language: objective-c, c
 osx_image: xcode7.0
 
 # Handle git submodules yourself
